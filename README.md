@@ -32,5 +32,3 @@ About the deliverable:
 A short video (maximum 3 minutes) must be included with the game play.
 The result of the solution of the exercise must be a. zip file with the content of the project (File->Zip Up Project) and whose name follows the following agreement: CEDV_M1_E02_last name1_name. zip (e. g. CEDV_M1_E02_Vallejo_David. zip). It is important that the packaged project can be opened in the EU4 facility itself. 
 Due to the maximum size limitations of the tasks in Moodle, this. zip file must be uploaded to a platform such as WeTransfer or Dropbox and the resulting URL will be the one attached to the CampusVirtual task.
-
-Translated with www.DeepL.com/Translator
